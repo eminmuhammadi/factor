@@ -1,5 +1,7 @@
 # factor
 
+test
+
 Fast prime factorization in Python. Factors most 50-60 digit numbers within a minute or so (with PyPy).  
 The algorithm used depends on the size of the input
 
